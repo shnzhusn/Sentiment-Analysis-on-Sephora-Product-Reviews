@@ -1,4 +1,4 @@
-# 🧠 Sentiment Analysis and Aspect-Based Sentiment Analysis of Sephora Product Reviews
+# 🧠 Sentiment Analysis on Sephora Product Reviews
 
 This project performs sentiment analysis and opinion mining on Sephora product reviews. It uses both traditional machine learning models (like Logistic Regression, Naive Bayes, and SVM) and transformer-based models (BERT, DistilBERT, RoBERTa) to classify reviews as positive, negative, or neutral.
 
